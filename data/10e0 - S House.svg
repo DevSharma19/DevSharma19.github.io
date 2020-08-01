@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 12.250356 10"
+   version="1.1"
+   sodipodi:docname="10e0 - S House.svg"
+   width="12.250357"
+   height="10"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>house set feb-2020</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="29.567506"
+     inkscape:cx="4.5497426"
+     inkscape:cy="4.4989018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#a9afb7;opacity:0.3;}.cls-2,.cls-3,.cls-6{fill:#fbb043;}.cls-2,.cls-4,.cls-5,.cls-6{stroke:#231f20;stroke-linejoin:round;}.cls-2,.cls-4{stroke-linecap:round;stroke-width:4.411px;}.cls-4,.cls-5{fill:none;}.cls-5,.cls-6{stroke-width:4.4106px;}</style>
+  </defs>
+  <title
+     id="title6">house set feb-2020</title>
+  <g
+     transform="scale(0.1)"
+     id="g863">
+    <a
+       id="a863"
+       transform="matrix(1,0,0,0.58714565,22.96309,29.690317)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.01"
+         id="rect846-6"
+         width="66.525124"
+         height="67.583023"
+         x="-9.4526424"
+         y="49.543217" />
+    </a>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.01"
+       id="rect846"
+       width="66.525124"
+       height="67.583023"
+       x="45.771576"
+       y="30.430771" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       style="fill:#ffffff;fill-opacity:0.298039"
+       id="polyline14"
+       points="55.282 63.532 28.539 63.532 7.711 80.487 56.202 80.487"
+       class="cls-2" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       id="polyline8"
+       points="36.856 111.209 36.856 94.768 74.375 94.768 74.375 111.209"
+       class="cls-1" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       id="polyline10"
+       points="72.465 77.166 72.465 61.898 86.505 61.898 86.505 77.166"
+       class="cls-1" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       id="polyline12"
+       points="98.682 77.166 98.682 61.898 112.722 61.898 112.722 77.166"
+       class="cls-1" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       style="fill:#a8aeb9;fill-opacity:0.298039"
+       id="polyline16"
+       points="94.378 127.095 94.378 94.768 112.557 94.768 112.557 127.095"
+       class="cls-3" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       id="polyline20"
+       points="130.201 99.39 130.201 125.1 17.661 125.1 17.661 81.52"
+       class="cls-4" />
+    <polyline
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       id="polyline24"
+       points="94.378 125.596 94.378 94.768 112.557 94.768 112.557 125.596"
+       class="cls-5" />
+    <polygon
+       transform="matrix(0.90057024,0,0,0.90057024,-4.9584493,-14.647545)"
+       style="fill:#ffffff;fill-opacity:0.298039"
+       id="polygon26"
+       points="46.216,49.469 139.33,49.469 92.409,18.47 "
+       class="cls-6" />
+    <rect
+       id="rect28"
+       height="14.46712"
+       width="33.720863"
+       y="70.929779"
+       x="28.750435"
+       class="cls-5" />
+    <rect
+       id="rect30"
+       height="14.46712"
+       width="14.46712"
+       y="40.843521"
+       x="59.417103"
+       class="cls-5" />
+    <rect
+       id="rect32"
+       height="14.46712"
+       width="14.46712"
+       y="40.843521"
+       x="83.448547"
+       class="cls-5" />
+    <line
+       id="line34"
+       y2="57.757492"
+       x2="45.771576"
+       y1="30.430771"
+       x1="45.771576"
+       class="cls-4" />
+    <rect
+       y="29.454208"
+       x="110.30829"
+       height="58.414997"
+       width="3.9628325"
+       id="rect866"
+       style="fill:#231f20;fill-opacity:1;stroke:none;stroke-width:0.00924462;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
